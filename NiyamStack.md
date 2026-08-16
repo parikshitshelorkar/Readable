@@ -1,4 +1,3 @@
-Absolutely. For **Niyamstack Source**, we should ignore the other six products and understand only the **procurement/vendor-management business**.
 
 # SECTION 1 — UNDERSTAND THE BUSINESS: NIYAMSTACK SOURCE
 

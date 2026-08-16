@@ -1,4 +1,3 @@
-Yes. For the **NiyamStack Source project**, I’d structure the project outline like this, especially if your goal is to understand the business first and then move toward product/design/technical requirements.
 
 ## NiyamStack Source — Project Outline
 
