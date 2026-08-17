@@ -1,4 +1,4 @@
-Absolutely. I went through the **NiyamStack brochure page-by-page** and we can now build the project from the actual source instead of assumptions.
+
 
 The most important discovery is that **NiyamStack Source is specifically a Vendor & Quotation Management Portal**, not a general document-management product.
 
