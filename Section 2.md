@@ -1,4 +1,4 @@
-Sure. For a **beginner-level research/college assignment**, I would make it simpler, less corporate, and more like observations you would realistically arrive at after doing basic research.
+
 
 ## SECTION 2 – OBSERVATIONS, PROBLEMS & OPPORTUNITIES
 
@@ -36,5 +36,5 @@ The main opportunities for **NiyamStack Source** are:
 6. **User roles** – provide different access based on the user's responsibility.
 7. **AI assistance** – help users find and understand relevant information.
 
-> **Research note:** The uploaded NiyamStack brochure could not be read as text by the file system, so I have kept the brochure references limited and have clearly labeled the other points as observations/opportunities rather than claiming that they are directly stated in the brochure. 
+
 
